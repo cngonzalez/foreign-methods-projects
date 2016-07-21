@@ -8,3 +8,5 @@ Links to end-of-unit projects for Flatiron School's Web Dev Fellowship-000 class
 * [Carolina Gonzalez - eBay Search Scraper](github.com/thecarsgone/fifty-sukajans)
 * [Ahmet Calis - Recent Earthquakes](https://github.com/aehmt/recent-earthquakes-cli-gem)
 * [Osvaldas Popovas and Blaze Burgess](https://github.com/ozPop/WTS-Reader-cli-gem)
+
+##Sinatra Assessment sites
