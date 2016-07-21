@@ -10,3 +10,4 @@ Links to end-of-unit projects for Flatiron School's Web Dev Fellowship-000 class
 * [Osvaldas Popovas and Blaze Burgess - WTS Reader](https://github.com/ozPop/WTS-Reader-cli-gem)
 
 ##Sinatra Assessment sites
+* [Gilad Barkan - We Are](http://weare.py8svpyh7j.us-west-2.elasticbeanstalk.com/)
