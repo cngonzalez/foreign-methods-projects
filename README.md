@@ -12,6 +12,8 @@ Links to end-of-unit projects for Flatiron School's Web Dev Fellowship-000 class
 * [Satu Barnhill - Nuclear Power Reactors](https://github.com/satub/nuclear-power-reactors-cli-gem)
 * [Derick Quartey and Margaret Ma - Jobster](https://github.com/eutopian/jobster)
 * [Chris Shei - Tasteable](https://github.com/ckshei/tastable)
+* [Hanna Redleaf - Neighborhood Commununity Meetings](https://github.com/hailuhr/new-cli-gem)
+* [Natalie Pat - Bookinist](https://github.com/Natalisp/bookinist)
 
 ##Sinatra Assessment sites
 * [Gilad Barkan - We Are](http://weare.py8svpyh7j.us-west-2.elasticbeanstalk.com/)
