@@ -10,9 +10,12 @@ Links to end-of-unit projects for Flatiron School's Web Dev Fellowship-000 class
 * [Osvaldas Popovas and Blaze Burgess - WTS Reader](https://github.com/ozPop/WTS-Reader-cli-gem)
 * [Raycent Tan and Fidel Severino - Finvest](https://github.com/raycent/finvest)
 * [Satu Barnhill - Nuclear Power Reactors](https://github.com/satub/nuclear-power-reactors-cli-gem)
+* [Derick Quartey and Margaret Ma - Jobster](https://github.com/eutopian/jobster)
+* [Chris Shei - Tasteable](https://github.com/ckshei/tastable)
 
 ##Sinatra Assessment sites
 * [Gilad Barkan - We Are](http://weare.py8svpyh7j.us-west-2.elasticbeanstalk.com/)
 * [Gordon Gao - SINATRA Assessment](https://github.com/GordonNY/sinatra-assessment)
 * [Haifeng Wu and Carolina Gonzalez - Aspect](https://github.com/irevived1/flatiron-sinatra-assessment)
 * [Blaze Burgess - GINWIK](https://github.com/blazeiburgess/SinatraAssessmentApplication)
+* [Unmi Gong - Twitter/Topics Of the Day (TOTD)](https://github.com/blessedsoy/sinatra-project-totd)
