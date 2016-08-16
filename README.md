@@ -14,10 +14,15 @@ Links to end-of-unit projects for Flatiron School's Web Dev Fellowship-000 class
 * [Chris Shei - Tasteable](https://github.com/ckshei/tastable)
 * [Hanna Redleaf - Neighborhood Commununity Meetings](https://github.com/hailuhr/new-cli-gem)
 * [Natalie Pat - Bookinist](https://github.com/Natalisp/bookinist)
+* [Paige Ellis and Bibi Khadiza - New Yorker Reader](https://github.com/bibikhadiza/nyr-gem/tree/master/new-york-reader)
+* [Hafizur Rahman - Countries](https://github.com/hafizrahman1/countries) 
+* [Parmarand Sahadeo and Kelene Chung - Tech Buys](https://github.com/parm530/tech_buys)
+* [Esmery Corniel - Face It](https://github.com/esmeryjose/face_it)
 
-##Sinatra Assessment sites
+##Sinatra Assessments
 * [Gilad Barkan - We Are](http://weare.py8svpyh7j.us-west-2.elasticbeanstalk.com/)
 * [Gordon Gao - SINATRA Assessment](https://github.com/GordonNY/sinatra-assessment)
 * [Haifeng Wu and Carolina Gonzalez - Aspect](https://github.com/irevived1/flatiron-sinatra-assessment)
 * [Blaze Burgess - GINWIK](https://github.com/blazeiburgess/SinatraAssessmentApplication)
 * [Unmi Gong - Twitter/Topics Of the Day (TOTD)](https://github.com/blessedsoy/sinatra-project-totd)
+* [Raycent Tan - Randomizer](https://github.com/raycent/randomizer) 
